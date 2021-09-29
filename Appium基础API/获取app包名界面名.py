@@ -1,5 +1,7 @@
 import time
 from appium import  webdriver
+
+
 #配置基本信息
 desired_caps = dict()
 desired_caps['platformName'] = 'Android'
